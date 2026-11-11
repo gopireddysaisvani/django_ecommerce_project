@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+db.sqlite3
+.env
+.venv/
+venv/
+demo.py
+demoo.txt
+img.bin
+temdp.txt
+temp.py
+temp.txt
